@@ -1,6 +1,6 @@
 # Case interview practice room
 
-A single-page practice tool for procurement and supply chain case interviews: 10 original cases, an interviewer guide, a candidate window to share on a video call, stage timers, scoring and history.
+A single-page practice tool for procurement and supply chain case interviews: 17 original cases (9 of them mirror the skills of a PrepLounge case and link to it), an interviewer guide, a candidate window to share on a video call, stage timers, scoring and history.
 
 Open it: https://ifaruqi.github.io/case-interview-practice-room/
 
